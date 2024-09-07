@@ -11,10 +11,9 @@
 
 Install TextiMate via pip:
 
-```bash
+
 pip install textimate
 
-## Usage
 
 ### Text Extraction
 
@@ -51,6 +50,7 @@ translator = Translator()
 translated_text = translator.translate_text('Hello, world!', 'es')
 print(translated_text)
 ```
+
 
 ## Technologies Used
 - **Python:** Core functionalities and logic.
