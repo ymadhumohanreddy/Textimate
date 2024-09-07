@@ -74,8 +74,5 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## Contact
 For questions, please reach out to [Madhu Mohan Reddy](mailto:yeddulamadhu6@gmail.com).
 
-## Links
-- [GitHub Repository](https://github.com/ymadhumohanreddy/TextiMate-Library)
-```
 
 This `README.md` provides clear instructions and examples for using the TextiMate Library, ensuring that users can quickly get started with it.
